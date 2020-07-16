@@ -11,6 +11,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 td {
 	color: yellow;
 }
+    我是master增加
 </style>   
     <title><text name="影片上传界面"/> </title> 
 	<meta http-equiv="pragma" content="no-cache">
