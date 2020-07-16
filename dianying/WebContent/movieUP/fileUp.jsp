@@ -8,9 +8,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
   <head>
 <style type="text/css">
-td {
-	color: yellow;
-}
+
 </style>   
     <title><text name="影片上传界面"/> </title> 
 	<meta http-equiv="pragma" content="no-cache">
